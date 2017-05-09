@@ -1,0 +1,25 @@
+This REPACK was in rev 29 when was moved on a new GIT because we got problems with commiting the new updates.
+
+9 MAY 2017 - moving to a new GIT
+
+
+Characterdatatables +charactertemplateclient.ini  original episode 3 added
+Banckslotprice has been updated - 1 slots cost gold the 2 and 3 are free
+Npc.ini up to episode 4 
+Objecttemplate.ini up to episode 4 (this will not affect the episode 3 updates)
+*exe console has been updated to Version 2
+DESIGN FILES merged in OBDP0000.ini , OBDP0001.ini and OBDB0000.ini
+ARTIST FOLDER removed
+itemoptiontable.txt updated
+*exe updated to V3
+Fixed level up faster than needs to be so now you can hit level 10 in 20 minutes
+Downgrade Objecttemplate.ini ep4 to objecttemplate.ini ep 2 - caves are not shown  - we will replace episode 2 soon after episode 4 fix
+Character stats upgrading to CM stats
+Guild settings upgrading to CM and trying to increased max guild members
+INI folder will be cleaned , so earsing unuseful *ini or *txt files and other configurations that doesnt belongs to original INI folder will be moved to CFG(FilteredItemLog.txt,
+ItemLotteryBox.txt,spawnExcelData.txt,SPAWNGROUP.INI,MemoryPoolCount.ini,chatevent.txt,AI2Template.txt,CashMallItemList.txt) - objecttemplate.ini was supposed to be moved because obs,obd files needs it in 1 place not how was before
+Droprate adjustment to CM ep 3 
+Itemdroptable original with materials from EP 3
+Original SQL file ACCOUNT with user ALEF - updated readme.md file to configure the new database
+Consoles updated to V4
+Consoles updates to V5
