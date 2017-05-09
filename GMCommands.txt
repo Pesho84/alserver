@@ -1,0 +1,38 @@
+
+/levelup [number]
+/cool
+/come [username]
+/go [username]
+/move 
+/lame
+/quest
+/open
+/cokk
+/summons
+/ride
+/create [itemid]
+/all [message]
+/1234
+/help
+/shout - in test
+/removespawnedmob
+/itemdropoff - in test
+/itemdropon - in test
+/buffeventstop - in test
+/buffeventstart - in test
+/expdropoff - in test
+/expdropon - in test
+/refreshmalllist
+/printlog
+/counsel
+/invisible [0 or 1]
+/endbuff
+/kick [username]
+/intspawn
+/spawnmax
+/spawn [mobid or npcid]
+/packak
+/CHARACTEREDIT
+/notice - in test
+/open
+/ride

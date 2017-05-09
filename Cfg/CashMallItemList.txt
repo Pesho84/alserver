@@ -1,0 +1,2 @@
+ProductID	ItemTID	Count	Price	SpecialFlag	Description	BuyMessage
+1	193	10	0	Hot		Hp potion
